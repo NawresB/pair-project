@@ -136,7 +136,156 @@ price:21,
 }
 ]
 
+const  dataa=[{ src:"/image-project/33.jfif",
+title:"casio watch ",
+price:60,
 
+},{ src:"/image-project/34.jfif",
+title:"bag",
+price:22,
+
+},,{ src:"/image-project/35.jfif",
+title:"black bag",
+price:23,
+
+},{ src:"/image-project/36.jfif",
+title:"skin care products",
+price:25,
+
+},{ src:"/image-project/37.jfif",
+title:"watch",
+price:75,
+
+},{ src:"/image-project/38.jfif",
+title:"brown bag",
+price:15,
+
+},{ src:"/image-project/39.jfif",
+title:"skin care products",
+price:15,
+
+},{ src:"/image-project/40.jfif",
+title:"Rolex watch",
+price:450,
+
+},{ src:"/image-project/41.jfif",
+title:"watch",
+price:60,
+
+},{ src:"/image-project/42.jfif",
+title:"white bag",
+price:20,
+
+},{ src:"/image-project/43.jfif",
+title:"rolex watch",
+price:15,
+
+},{ src:"/image-project/44.png",
+title:"men's watch",
+price:90,
+
+},{ src:"/image-project/45.jfif",
+title:"bag",
+price:20,
+
+},{ src:"/image-project/46.jfif",
+title:"watch",
+price:70,
+
+},{ src:"/image-project/47.jfif",
+title:"bleu cap",
+price:15,
+
+},{ src:"/image-project/48.jfif",
+title:"sunblock",
+price:15,
+
+},{ src:"/image-project/49.jfif",
+title:"nivea box",
+price:15,
+
+},{ src:"/image-project/50.jfif",
+title:"modern watch",
+price:250,
+
+},{ src:"/image-project/51.jfif",
+title:"white bag",
+price:15,
+
+}
+,{ src:"/image-project/53.jfif",
+title:"sunblock",
+price:15,
+
+},{ src:"/image-project/54.jfif",
+title:"men's watch",
+price:15,
+
+},{ src:"/image-project/55.jfif",
+title:"kylie skin",
+price:15,
+
+},{ src:"/image-project/56.jfif",
+title:"bag",
+price:15,
+
+},{ src:"/image-project/57.jfif",
+title:"balck bag",
+price:15,
+
+},{ src:"/image-project/58.jfif",
+title:"black bag",
+price:15,
+
+},{ src:"/image-project/59.jfif",
+title:"modern bag",
+price:40,
+
+},{ src:"/image-project/60.jfif",
+title:"bag for men",
+price:15,
+
+},{ src:"/image-project/61.jfif",
+title:"Rolex",
+price:15,
+
+},{ src:"/image-project/62.jfif",
+title:"watch",
+price:300,
+
+},{ src:"/image-project/63.jfif",
+title:"bag",
+price:15,
+
+},{ src:"/image-project/64.png",
+title:"men's watch",
+price:350,
+
+},{ src:"/image-project/65.png",
+title:"skin care products",
+price:13,
+
+},{ src:"/image-project/66.png",
+title:"nivea box",
+price:15,
+
+},{ src:"/image-project/67.png",
+title:"watch",
+price:250,
+
+},{ src:"/image-project/68.png",
+title:"gold watch ",
+price:15,
+
+},{ src:"/image-project/69.png",
+title:"black watch",
+price:110,
+
+},{ src:"/image-project/70.png",
+title:"black bag",
+price:21,
+
+}]
 
 
 
